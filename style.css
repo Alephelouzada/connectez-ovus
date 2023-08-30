@@ -3,18 +3,21 @@
 
 *{
     
-    margin: 0px;
-    padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;  /* margem*/
+    padding: 0px; /*preenchimento*/
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
 }
 main { 
     
-    background: rgba(70, 68, 68, 0.192);
-    width: 100vw;
-    height: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 100vw; /*largura */
+    height: 100vw; /*altura*/
+    background: #F5F5F5; /*fundo*/
+    display: flex; /*mostrar*/
+    justify-content: center; /*justiicar conteudo*/
+    align-items: center; /* itens alinhado*/
+
 }
     
 
