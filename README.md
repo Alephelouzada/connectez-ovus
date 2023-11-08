@@ -25,7 +25,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em () para visualização.
+O projeto está disponível em (https://connectez-ovus.vercel.app/) para visualização.
 
 Seja bem-vindo ao connectez-ovus , e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
